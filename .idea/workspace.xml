@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b1fe5c2-45be-4a32-b86d-721c4af9cc16" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/www.jnshu.com.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/矩形 7 拷贝 4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/m copy 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/qrcode_for_gh_32213eeb65ba_1280.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/www.jnshu.com.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/图层 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/技能树首页-恢复的_03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/矩形 7 拷贝 4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task812.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/bootstrap.min.js.下载" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/jquery.min.js.下载" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/layui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/layui.js.下载" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/task82_files/task82.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Untitled-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/layui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/task81.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/模板.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task81.html" afterPath="$PROJECT_DIR$/task81.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task82.css" afterPath="$PROJECT_DIR$/task82.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task82.html" afterPath="$PROJECT_DIR$/task82.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task83.css" afterPath="$PROJECT_DIR$/task83.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task83.html" afterPath="$PROJECT_DIR$/task83.html" />
-    </list>
+    <list default="true" id="6b1fe5c2-45be-4a32-b86d-721c4af9cc16" name="默认的" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -71,7 +42,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="293" />
     <option name="y" value="26" />
     <option name="width" value="1400" />
@@ -124,16 +95,15 @@
       <updated>1521792628705</updated>
       <workItem from="1521792629971" duration="846000" />
       <workItem from="1521904353890" duration="642000" />
-      <workItem from="1521987061415" duration="922000" />
+      <workItem from="1521987061415" duration="938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2410000" />
+    <option name="totallyTimeSpent" value="2426000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="293" y="26" width="1400" height="990" extended-state="1" />
-    <editor active="true" />
+    <frame x="293" y="26" width="1400" height="990" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
